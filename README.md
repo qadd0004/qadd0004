@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+GitHub+Page;My+public+space+for+My+Projects)](https://git.io/typing-svg)
 
 
-Web and Mobile Developerand Designer, Frontend Engineer
+Web and Mobile Developer and Designer, Frontend Engineer
 
 ### My Portfolio: [mohsen-qaddoura.com](http://mohsen-qaddoura.com "mohsen-qaddoura.com")
 
